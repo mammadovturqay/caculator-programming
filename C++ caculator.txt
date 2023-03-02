@@ -1,0 +1,42 @@
+//#include <iostream>
+//using namespace std;
+//enum alloperotors  {toplama = '+' , cixma = '-' };
+//void main() {
+//	cout << "Enter Number 1 : ";
+//	float number, number2;
+//	cin >> number;
+//	cout << "enter Number 2 : ";
+//	cin >> number2;
+//	cout << "Choice \n a + b Enter > (+) \n a - b Enter > (-)  \n a * b Enter (*) \n a / b Enter > (/)     ";
+//	char check = ' ';
+//	cin >> check;
+//	switch (check ) {
+//
+//	case '+': {
+//		cout << "Result  : " << number + number2;
+//		break;
+//	}
+//	case '-': {
+//		cout << "Result : " << number - number2;
+//		break;
+//	}
+//	case '*': {
+//		cout << "Result : " << number * number2;
+//		break;
+//	}
+//	case '/' :
+//	{
+//		cout << "Result : " << number / number2;
+//		break;
+//
+//	}
+//	default: {
+//		cout << "0 bolunemez ! ";
+//		break;
+//	}
+//		
+//	}
+//
+//
+//
+//}
